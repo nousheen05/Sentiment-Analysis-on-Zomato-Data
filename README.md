@@ -5,7 +5,7 @@ The project uses data of customer reviews and ratings of restaurants in Bangalor
 
 ## Blog on the Project
 
-Preprocessing: [Data Preprocessing for Sentiment Analysis on Zomato Reviews](https://linktodocumentation)
+Preprocessing: [Data Preprocessing for Sentiment Analysis on Zomato Reviews](https://medium.com/@Tan_D/data-preparation-and-preprocessing-for-sentiment-analysis-on-zomato-reviews-5c34c2fb36e8)
 
 Network Design and Training: [Sentiment Analysis on Zomato Reviews](https://medium.com/@Tan_D/sentiment-analysis-on-zomato-reviews-4bc841e4b040) 
 
