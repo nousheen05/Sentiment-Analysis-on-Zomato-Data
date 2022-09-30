@@ -39,7 +39,7 @@ Preprocessing:
 - Lower frequency word removal
 - Data balancing
 
-[Full Notebook](https://colab.research.google.com/github/TanD18/Sentiment-Analysis-on-Zomato-Data/blob/main/Pre_Processing_Sentiment_Analysis.ipynb)
+
 Network Design and Training:
 
 - Model Design (BiLSTM)
@@ -53,6 +53,8 @@ Network Design and Training:
 - Train and Evaluate model
 
 
+[Preprocessing Notebook](https://colab.research.google.com/github/TanD18/Sentiment-Analysis-on-Zomato-Data/blob/main/Pre_Processing_Sentiment_Analysis.ipynb)
+[Network Design and Training Notebook](https://colab.research.google.com/github/TanD18/Sentiment-Analysis-on-Zomato-Data/blob/main/Sentiment_Analysis_on_Zomato_Reviews.ipynb)
 ## Tech Stack
 
 - Pytorch
