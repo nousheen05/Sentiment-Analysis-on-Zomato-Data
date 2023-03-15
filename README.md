@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Zomato Data
+# Sentiment Analysis using Zomato Reviews
 
 ## Overview
 The project uses data of customer reviews and ratings of restaurants in Bangalore (listed on Zomato), to make a model that could predict correct sentiment from a review.
